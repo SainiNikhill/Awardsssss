@@ -2,6 +2,9 @@
 
 Welcome to **Ochi Design**, a beautifully crafted frontend design project built using React and Tailwind CSS. This project showcases a modern and visually appealing user interface, following best practices in web development.
 
+## live link
+[nikhil/ochiclone--netlifylink](https://nikhil-ochiclone.netlify.app/)
+
 ## 🚀 About the Project
 
 **Ochi Design** is a frontend-only web project designed with React. It features multiple reusable components that form the foundation of a sleek and professional website layout. The design is fully responsive, optimized for performance, and adheres to modern UI/UX principles.
