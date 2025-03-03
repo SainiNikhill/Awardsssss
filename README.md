@@ -57,7 +57,7 @@ awardsssss/
 5. Open your browser and explore!
 
 ## 🏅 Featured Projects
-- 🌐 **Ochi** – Frontend clone of ochi design .
+- 🌐 **Ochi** – Frontend clone of ochi design .[live link](https://nikhil-ochiclone.netlify.app/)
 
 
 ## 🤝 Contributions
